@@ -108,7 +108,7 @@ function App() {
                   <MapPin className="w-6 h-6 text-blue-600" />
                   <div>
                     <h4 className="font-semibold">Visit Us</h4>
-                    <p className="text-gray-600">Samatha Nagar, 10th Line, Ongole, Andhra Pradesh, India, PIN:523002</p>
+                    <p className="text-gray-600">Samatha Nagar, 10th Line, Ongole, Andhra Pradesh, India, PIN - 523002</p>
                   </div>
                 </div>
               </div>
